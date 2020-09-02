@@ -1,0 +1,19 @@
+{
+  "name": "express_elk",
+  "version": "1.0.0",
+  "description": "Simple Express app loading logs into ElasticSearch via Beats, visualized with Kibana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/YaoLiu93/LoremIpsumExpressElastic.git"
+  },
+  "author": "Yao Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaoLiu93/LoremIpsumExpressElastic/issues"
+  },
+  "homepage": "https://github.com/YaoLiu93/LoremIpsumExpressElastic#readme"
+}
